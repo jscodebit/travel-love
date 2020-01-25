@@ -22,3 +22,10 @@ In a clockwise direction from top left
 - Reading Blogs
 - Browsing netflix
 - Not to forget, cooking!
+
+## My Inspiration
+
+Some of the living proofs that people can achieve anything and everything,
+* [Michelle Obama](https://en.wikipedia.org/wiki/Michelle_Obama)
+* [Deepika Padukone](https://en.wikipedia.org/wiki/Deepika_Padukone)
+
