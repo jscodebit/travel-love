@@ -15,3 +15,10 @@ In a clockwise direction from top left
 1. Madurai’s Coffee, Coffee is a drink and filter coffee is an emotion
 1. India's French Colony, Pondicherry.
 1. At the center it's Dawki, Meghalaya. Full of Surprises!
+
+## Some of my hobbies
+
+- Sketching and Illustration
+- Reading Blogs
+- Browsing netflix
+- Not to forget, cooking!
