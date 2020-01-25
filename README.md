@@ -31,5 +31,5 @@ Some of the living proofs that people can achieve anything and everything,
 
 ### You can also find some of my works at
 
-* [LinkedIn profile](https://jscodebit.github.io/) 
-* [My Portfolio](https://www.linkedin.com/in/soujanya-j-49680073/)
+* [LinkedIn profile](https://www.linkedin.com/in/soujanya-j-49680073/) 
+* [My Portfolio](https://jscodebit.github.io/)
