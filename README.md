@@ -29,3 +29,7 @@ Some of the living proofs that people can achieve anything and everything,
 * [Michelle Obama](https://en.wikipedia.org/wiki/Michelle_Obama)
 * [Deepika Padukone](https://en.wikipedia.org/wiki/Deepika_Padukone)
 
+You can also find some of my works at
+
+[LinkedIn profile(]https://jscodebit.github.io/) 
+[My Portfolio](https://www.linkedin.com/in/soujanya-j-49680073/)
